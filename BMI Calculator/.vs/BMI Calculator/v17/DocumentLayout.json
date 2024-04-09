@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|C:\\Users\\iamka\\source\\repos\\BMI Calculator\\bmi calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|solutionrelative:bmi calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|c:\\users\\iamka\\source\\repos\\bmi calculator\\bmi calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|solutionrelative:bmi calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|C:\\Users\\iamka\\source\\repos\\BMI Calculator\\bmi calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|solutionrelative:bmi calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|C:\\Users\\iamka\\source\\repos\\BMI Calculator\\bmi calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2659F4-0F15-43EA-9D59-85506D1159C2}|BMI Calculator\\BMI Calculator.csproj|solutionrelative:bmi calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "BMI Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form1.cs",
+              "RelativeToolTip": "BMI Calculator\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wCMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:18:33.3Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form2.cs",
+              "RelativeDocumentMoniker": "BMI Calculator\\Form2.cs",
+              "ToolTip": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form2.cs",
+              "RelativeToolTip": "BMI Calculator\\Form2.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAADwv4YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:41:52.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "BMI Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form1.cs [Design]",
+              "RelativeToolTip": "BMI Calculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:58:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form2.cs",
+              "RelativeDocumentMoniker": "BMI Calculator\\Form2.cs",
+              "ToolTip": "C:\\Users\\iamka\\source\\repos\\BMI Calculator\\BMI Calculator\\Form2.cs [Design]",
+              "RelativeToolTip": "BMI Calculator\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:29:28.733Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
